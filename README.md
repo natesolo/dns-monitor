@@ -1,7 +1,7 @@
 # DNS Monitoring Tool (Python)
 
 # Overview
-This project is a Python-based DNS monitoring tool designed to detect suspicious DNS activity using behavioral indicators such as domain entropy, query frequency, and high risk domains.
+This project is a Python DNS monitoring tool designed to detect suspicious DNS activity using behavioral indicators such as domain entropy, query frequency, and high risk domains.
 
 The tool observes DNS queries and generates alerts when activity matches common indicators associated with malware command-and-control or domain generation algorithms (DGA).
 
