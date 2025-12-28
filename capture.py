@@ -14,6 +14,6 @@ def capture_dns(callback):
             # Send domain to the detection logic
             callback(domain)
 
-    # Start sniffing UDP DNS traffic (port 53) 
+    # Start sniffing UDP DNS traffic at (port 53) 
     sniff(filter = "udp port 53", prn = handle_packet, store = False)
     
