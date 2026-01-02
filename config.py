@@ -5,7 +5,7 @@
 # A list of suspicious domains abused by malware
 SUSPICIOUS_TLDS = [".xyz", ".zip", ".mov", ".com", ".win"]
 
-# Threshold for detecting DGA-style domains
+# Threshold for detecting DGA  domains
 ENTROPY_THRESHOLD = 3.8
 
 # Number of DNS queries to the same domain before flagging
