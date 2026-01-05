@@ -9,7 +9,7 @@ SUSPICIOUS_TLDS = [".xyz", ".zip", ".mov", ".com", ".win"]
 ENTROPY_THRESHOLD = 3.8
 
 # Number of DNS queries to the same domain before flagging
-QUERY_THRESHOLD = 40
+QUERY_THRESHOLD = 49
 
 # Score required to trigger an alert
 ALERT_SCORE = 40
