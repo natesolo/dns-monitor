@@ -2,7 +2,7 @@
 
 from collections import defaultdict
 from utils import calculate_entropy
-from config import * 
+from config import *
 
 # Stores how many times each domain is queried
 domain_counts = defaultdict(int)
