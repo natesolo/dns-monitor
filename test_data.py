@@ -3,6 +3,7 @@
 TEST_DOMAINS = [
     "google.com",
     "facebook.com",
+    "reddit.com"
     "ksj29dks9s.xyz",
     "ajd92ks9d2kq.top",
     "example.com",
